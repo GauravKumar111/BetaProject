@@ -9,6 +9,7 @@
     <types>
         <members>State_Capital__c.Capital__c</members>
         <members>State_Capital__c.State__c</members>
+        <members>State_Capital__c.StateNumber__c</members>
         <name>CustomField</name>
     </types>
     <types>
