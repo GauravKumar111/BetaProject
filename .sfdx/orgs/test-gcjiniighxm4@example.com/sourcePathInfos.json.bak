@@ -1,0 +1,332 @@
+[
+    [
+        "C:\\Users\\al2042\\31oct\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540972186282,
+            "changeTime": 1540972186282,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540972186282,
+            "changeTime": 1540972186282,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540972425408,
+            "changeTime": 1540972425408,
+            "contentHash": "29447785d6fffb1bcf789425fe3f0a54e897afdc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540972186282,
+            "changeTime": 1540972186282,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540972425393,
+            "changeTime": 1540972425393,
+            "contentHash": "0cce4fb6ec45551595b3ed337bdbfcfc3c4d3339",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\classes\\ContactSearch.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\classes\\ContactSearch.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 266,
+            "modifiedTime": 1540972425393,
+            "changeTime": 1540972425393,
+            "contentHash": "edba80bd221f4084362f54ed7d78d080804d983b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\classes\\ContactSearch.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\classes\\ContactSearch.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1540972425393,
+            "changeTime": 1540972425393,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\classes\\MapExample.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\classes\\MapExample.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1387,
+            "modifiedTime": 1540972425393,
+            "changeTime": 1540972425393,
+            "contentHash": "bb1526b89d64b0fc8e0e4d7c74296a10d48a2559",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\classes\\MapExample.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\classes\\MapExample.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1540972425393,
+            "changeTime": 1540972425393,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540972425393,
+            "changeTime": 1540972425393,
+            "contentHash": "fbe93a3e647a1e505815be668c00a62ded73a729",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\layouts\\State_Capital__c-State%26Capital Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\layouts\\State_Capital__c-State%26Capital Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2219,
+            "modifiedTime": 1540972425393,
+            "changeTime": 1540972425393,
+            "contentHash": "7f1367d58a55bc52b5ee45660548b4df5d730a4d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540972425424,
+            "changeTime": 1540972425424,
+            "contentHash": "a7c35fbf4389d66122cf4b98e9b6a697a1a18d75",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects\\Broker__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects\\Broker__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540972425408,
+            "changeTime": 1540972425408,
+            "contentHash": "fb39c1f30a99ad4fe6eba42e68aa49c9da201b3d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects\\Broker__c\\Broker__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects\\Broker__c\\Broker__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2258,
+            "modifiedTime": 1540972425408,
+            "changeTime": 1540972425408,
+            "contentHash": "6174f0a4e3636f18dcbb7147c9a50a3c4168abec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects\\State_Capital__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects\\State_Capital__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540972425424,
+            "changeTime": 1540972425424,
+            "contentHash": "7c7f3063d62a71d8bafd1195229c8bad1c474153",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects\\State_Capital__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects\\State_Capital__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540972425424,
+            "changeTime": 1540972425424,
+            "contentHash": "4bc72438b64f8ae2c8deaa5fe9907f94dfea55d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects\\State_Capital__c\\fields\\Capital__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects\\State_Capital__c\\fields\\Capital__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 312,
+            "modifiedTime": 1540972425424,
+            "changeTime": 1540972425424,
+            "contentHash": "10a410fcf05a3b46232437c7b6ed8b69798f3fa0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects\\State_Capital__c\\fields\\State__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects\\State_Capital__c\\fields\\State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 308,
+            "modifiedTime": 1540972425424,
+            "changeTime": 1540972425424,
+            "contentHash": "81f4e7471b19910741a3b376aef6cb827053a567",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects\\State_Capital__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects\\State_Capital__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540972425424,
+            "changeTime": 1540972425424,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects\\State_Capital__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects\\State_Capital__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1540972425424,
+            "changeTime": 1540972425424,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects\\State_Capital__c\\State_Capital__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct\\force-app\\main\\default\\objects\\State_Capital__c\\State_Capital__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2153,
+            "modifiedTime": 1540972425424,
+            "changeTime": 1540972425424,
+            "contentHash": "0b5ecc0600e6cc96f232dc00c03b260b83fd8997",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\31oct",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\31oct",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540972304575,
+            "changeTime": 1540972304575,
+            "contentHash": "92ca9faf268bdc3bc4fdfed474395961a41825c6",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
